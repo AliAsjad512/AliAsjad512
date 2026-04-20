@@ -13,22 +13,19 @@
 ### 🔥 About Me:
 
 🔥 About Me:
+- 🔭 I’m currently working on DevOps projects (CI/CD pipelines, Docker, AWS deployments)
 
-🔭 I’m currently working on DevOps projects (CI/CD pipelines, Docker, AWS deployments)
+- 🌱 I’m currently learning AWS, Docker, Kubernetes, Linux, and backend development (Node.js, APIs, MongoDB)
 
-🌱 I’m currently learning AWS, Docker, Kubernetes, Linux, and backend development (Node.js, APIs, MongoDB)
-
-⚡ Fun fact: I enjoy breaking things and fixing them to learn faster 😆  
+- ⚡ Fun fact: I enjoy breaking things and fixing them to learn faster 😆  
 
 ---
 
 ### 🌍 Connect with Me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/ali-abbas1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
+  
+ 
   <a href="https://leetcode.com/u/aliasjad512/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
